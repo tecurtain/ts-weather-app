@@ -1,7 +1,5 @@
-
-
 React Fundamentals Course - Weather App - Thomas Snow
-========
+
 
 #### For more information on React Training, [click here](http://reacttraining.com/online)
 
